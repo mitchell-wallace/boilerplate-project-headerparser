@@ -4,4 +4,4 @@ This is the boilerplate for the Request Header Parser Microservice project. Inst
 
 # Fork Details
 
-This fork was created by Mitchell Wallace in the process of building this project. Completed MMM DD, YYYY.
+This fork was created by Mitchell Wallace in the process of building this project. Completed Dec 10, 2023.
